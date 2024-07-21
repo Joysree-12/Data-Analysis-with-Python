@@ -1,4 +1,5 @@
-****Project1:****
+**Project1:**
 
-**Python_Diwali_Sales_Analysis
-Analyze Diwali sales data to improve customer experience and sales**
+ **Python_Diwali_Sales_Analysis**
+
+Analyze Diwali sales data to improve customer experience and sales
